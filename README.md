@@ -1,6 +1,6 @@
-UI tests for ToDoMvc app
+<h1>UI tests for ToDoMvc app</h1>
 
 Selenide + Allure + Spring + AssertJ
 
-Run tests: mvn clean verify
-Generate report: mvn allure:report
+<p>Run tests: mvn clean verify
+<p>Generate report: mvn allure:report
